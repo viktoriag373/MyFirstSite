@@ -68,4 +68,7 @@ main{
 footer{
     background-color:rgb(146, 131, 243);
     height:60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
