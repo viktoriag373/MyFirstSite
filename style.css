@@ -61,9 +61,16 @@ main{
     display: flex;
     flex-direction: column;
 }
+.image{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
 .image a img{
-    width: 800px;
-
+    width: 420px;
+    margin-bottom: 7%;
+    
 }
 footer{
     background-color:rgb(146, 131, 243);
